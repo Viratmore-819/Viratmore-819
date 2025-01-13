@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Viratmore-819
-- 👀 I’m interested in ... c,c++,c#,javascript,python
+- 👀 I’m interested in ... c,c++,c#,javascript,java,python
 - 🌱 I’m currently learning ...python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
